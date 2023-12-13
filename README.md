@@ -1,4 +1,7 @@
-<a href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="40" </a> <h1 align="center"> I'm GaneSSH</h1>
+<h1 align="center"> I'm GaneSSH</h1>
+<p align="center>
+  <a href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="40" </a>
+  </p>
 <h2 align="center">Student, Passionate about CyberSecurity</h2>
 
 
@@ -9,7 +12,7 @@
 
 <h2 align="left">My Cyber Profiles:</h2>
 <p align="left">
-<a href="https://ozint.eu/ozinter/18970/" target="_blank" rel="noreferrer"> <img align="center" src="https://media.licdn.com/dms/image/D4E0BAQHFeM1GaaOcAQ/company-logo_200_200/0/1698570252562/ozint_eu_logo?e=1710374400&v=beta&t=U2pLUO0KTQ9S_i8QGm1bNKyOQLxUOHQoCt9ouJSTNKE" alt="ozint" width="30" height="40"/> </a> <a href="https://tryhackme.com/p/GaneSSH" target="_blank" rel="noreferrer"> <img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tryhackme" width="30" height="40"/> </a> <a href="https://app.hackthebox.com/users/1765572" target="_blank" rel="noreferrer"> <img align="center" src="https://s1.qwant.com/thumbr/0x380/8/4/18baf204a5b6b327be771a99829eaf4db1de079cf23551195e3a70c1bea300/hackthebox.svg.jpg?u=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F330606%2Fhackthebox.svg&q=0&b=1&p=0&a=0" alt="hackthebox" width="30" height="40"/> </a> <a href="https://www.root-me.org/GaneSSH?lang=fr#3cf09381235b8230a43effe81218f701" target="_blank" rel="noreferrer"> <img align="center" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="rootme" width="30" height="40"/> </a> 
+<a href="https://ozint.eu/ozinter/18970/" target="_blank" rel="noreferrer"> <img align="center" src="https://media.licdn.com/dms/image/D4E0BAQHFeM1GaaOcAQ/company-logo_200_200/0/1698570252562/ozint_eu_logo?e=1710374400&v=beta&t=U2pLUO0KTQ9S_i8QGm1bNKyOQLxUOHQoCt9ouJSTNKE" alt="ozint" width="30" height="40"/> </a> <a href="https://tryhackme.com/p/GaneSSH" target="_blank" rel="noreferrer"> <img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tryhackme" width="30" height="40"/> </a> <a href="https://app.hackthebox.com/users/1765572" target="_blank" rel="noreferrer"> <img align="center" src="https://s1.qwant.com/thumbr/0x380/8/4/18baf204a5b6b327be771a99829eaf4db1de079cf23551195e3a70c1bea300/hackthebox.svg.jpg?u=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F330606%2Fhackthebox.svg&q=0&b=1&p=0&a=0" alt="hackthebox" width="30" height="40"/> </a> <a href="https://www.root-me.org/GaneSSH?lang=fr#3cf09381235b8230a43effe81218f701" target="_blank" rel="noreferrer"> <img align="center" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="rootme" width="30" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
