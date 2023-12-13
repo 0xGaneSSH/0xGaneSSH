@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GaneSSH</h1>
-<h3 align="center">Student, Passionate about CyberSecurity</h3>
+<h2 align="center">Student, Passionate about CyberSecurity</h2>
 
 
 
