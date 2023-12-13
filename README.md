@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GaneSSH</h1>
 <h3 align="center">Student, Passionate about CyberSecurity</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xganessh" alt="0xganessh" /></a> </p>
+
 
 - 🌱 I’m currently learning **CyberSecurity and Python**
 
@@ -22,3 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xganessh&" alt="0xganessh" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xganessh" alt="0xganessh" /></a> </p>
