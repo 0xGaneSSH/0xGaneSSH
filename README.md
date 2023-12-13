@@ -3,22 +3,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student, Passionate about CyberSecurity
 ---------------------------------------
+## Social Media
+[![StackOverflow](lien_vers_image_stackoverflow)](lien_vers_profil_stackoverflow) [![Mastodon](lien_vers_image_mastodon)](lien_vers_profil_mastodon) [![Matrix](lien_vers_image_matrix)](lien_vers_profil_matrix) [![Session](lien_vers_image_session)](lien_vers_profil_session) [![Kaggle](https://s2.qwant.com/thumbr/0x380/f/0/a46a94a1dd282240eee3ca149c7326dd1d27163e12722ed91747f8516a375d/189_Kaggle_logo_logos-1024.png?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands%2F512%2F189_Kaggle_logo_logos-1024.png&q=0&b=1&p=0&a=0)](https://www.kaggle.com/ganessh) [![Reddit](lien_vers_image_reddit)](lien_vers_profil_reddit) [![Ozint.eu](lien_vers_image_ozint)](lien_vers_profil_ozint) [![RootMe](lien_vers_image_rootme)](lien_vers_profil_rootme) [![TryHackme](lien_vers_image_tryhackme)](lien_vers_profil_tryhackme) [![Discord](lien_vers_image_discord)](lien_vers_profil_discord)
 
-* 🌍  I'm based in France
-* ✉️  You can contact me at [ganessh@tutanota.com](mailto:ganessh@tutanota.com)
-* 🧠  I'm learning Cybersecurity on TryHackMe
+## Contact
+- Email: ton@email.com
 
-### Skills
+## Statistiques GitHub
+![Statistiques GitHub](lien_vers_image_stats_github)
 
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/0xGaneSSH" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/0xGaneSSH" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## Outils Maîtrisés
+![Python](lien_vers_image_python) ![PostGreSQL](lien_vers_image_postgresql) ![Linux](lien_vers_image_linux) ![Windows](lien_vers_image_windows) ![VMWARE](lien_vers_image_vmware) ![PROXMOX](lien_vers_image_proxmox) ![APACHE GUACAMOLE](lien_vers_image_guacamole) ![PFSENSE](lien_vers_image_pfsense) ![Cisco](lien_vers_image_cisco) ![Aruba](lien_vers_image_aruba) ![GNS3](lien_vers_image_gns3)
 
 ### Badges
 
