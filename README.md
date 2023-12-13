@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/23094672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23094672" height="30" width="40" /></a>
-<a href="https://kaggle.com/ganessh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ganessh" height="30" width="40" /></a> <a href="https://joinmastodon.org" target="_blank" rel="noreferrer"> <img src="https://joinmastodon.org/logos/logo-purple.svg" alt="mastodon" width="30" height="40"/> </a> <a href="https://www.root-me.org" target="_blank" rel="noreferrer"> <img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="rootme" width="30" height="40"/> </a>
+<a href="https://kaggle.com/ganessh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ganessh" height="30" width="40" /></a> <a href="https://joinmastodon.org" target="_blank" rel="noreferrer"> <img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="mastodon" width="30" height="40"/> </a> <a href="https://www.root-me.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="rootme" width="30" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
