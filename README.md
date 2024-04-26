@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ganessh@tutanota.com**
 
-- 🔐 Hit me up on Discord : 0xGaneSSH or on [Session](https://getsession.org/) : 0552845a873b09800b5ccbf754941db0e50f5f107ac296a495d6ada681ab770a5b
+- 🔐 Hit me up on [Discord](https://discord.com/) : 0xGaneSSH or on [Session](https://getsession.org/) : 0552845a873b09800b5ccbf754941db0e50f5f107ac296a495d6ada681ab770a5b
 
 <img align="right" alt="Coding" width="400" height="400" src="https://raw.githubusercontent.com/0xGaneSSH/Profile_Pictures/main/GaneSSH_PF_01.webp"/>
 <h3 align="left">My Cyber Profiles:</h3>
