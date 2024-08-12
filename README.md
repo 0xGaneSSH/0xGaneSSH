@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ganessh@tutanota.com**
 
-- 🔐 Hit me up on [Discord](https://discord.com/) : 0xGaneSSH or on [Session](https://getsession.org/) : 0552845a873b09800b5ccbf754941db0e50f5f107ac296a495d6ada681ab770a5b
+- 🔐 Hit me up on [Discord](https://discord.com/) : 0xGaneSSH
 
 <img align="right" alt="Coding" width="400" height="400" src="https://raw.githubusercontent.com/0xGaneSSH/Profile_Pictures/main/GaneSSH_PF_01.webp"/>
 <h3 align="left">My Cyber Profiles:</h3>
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://matrix.to/#/@ganessh:matrix.org" target="_blank" rel="noreferrer"> <img align="center" src="https://matrix.org/images/matrix-logo-white.svg" alt="Matrix" width="30" height="40"/> </a> <a href="https://mastodon.social/@GaneSSH" target="_blank" rel="noreferrer"> <img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="Mastodon" width="30" height="40"/> </a> <a href="https://www.reddit.com/user/0xGaneSSH" target="_blank" rel="noreferrer"> <img align="center" src="https://styles.redditmedia.com/t5_5s5qbl/styles/communityIcon_tqrzte0yaa3c1.png?width=256&s=68dd932ab9764fd3ccb44dc62410f0e92d41a01f" alt="Reddit" width="30" height="40"/> </a> <a href="https://stackoverflow.com/users/23094672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23094672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
 <a href="https://kaggle.com/ganessh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a> 
 </p>
 
