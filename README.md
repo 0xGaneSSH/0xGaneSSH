@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity and Python**
 
-- 📫 How to reach me **ganessh@tutanota.com**
+- 📫 How to reach me **0xganessh@proton.me**
 
 - 🔐 Hit me up on [Discord](https://discord.com/) : 0xGaneSSH
 
