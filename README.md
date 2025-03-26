@@ -30,8 +30,8 @@
 
 ### 🌐 Platforms
 
-- 🔐 [TryHackMe](https://tryhackme.com/) - Blue Team Rooms, Labs & Challenges  
-- 📂 [Root-Me](https://www.root-me.org/) - Focus on system, network & forensics  
+- 🔐 [TryHackMe](https://tryhackme.com/p/GaneSSH) - Blue Team Rooms, Labs & Challenges  
+- 📂 [Root-Me](https://www.root-me.org/0xGaneSSH) - Focus on system, network & forensics  
 - 🧪 HTB (on the way...)  
 
 ---
