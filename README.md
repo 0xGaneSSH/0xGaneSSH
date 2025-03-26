@@ -32,7 +32,7 @@
 
 - 🔐 [TryHackMe](https://tryhackme.com/p/GaneSSH) - Blue Team Rooms, Labs & Challenges  
 - 📂 [Root-Me](https://www.root-me.org/0xGaneSSH) - Focus on system, network & forensics  
-- 🧪 HTB (on the way...)  
+- 🧪 [HackTheBox](https://app.hackthebox.com/users/1765572) - Focus on Sherlocks and learning
 
 ---
 
