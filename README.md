@@ -30,7 +30,7 @@
 
 ### 🌐 Platforms
 
-- 🔐 [TryHackMe](https://tryhackme.com/p/GaneSSH) - Blue Team Rooms, Labs & Challenges  
+- 🔐 [TryHackMe](https://tryhackme.com/p/0xGaneSSH) - Blue Team Rooms, Labs & Challenges  
 - 📂 [Root-Me](https://www.root-me.org/0xGaneSSH) - Focus on system, network & forensics  
 - 🧪 [HackTheBox](https://app.hackthebox.com/users/1765572) - Focus on Sherlocks and learning
 
